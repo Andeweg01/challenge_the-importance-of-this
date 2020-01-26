@@ -50,7 +50,7 @@ div{
 	flex:1 0 auto;
 }
 
-.container
+#container
 {
 	display: flex;		/* makes container a flexbox*/
 	flex-flow: row wrap; 	/* layout the boxes in rows and wrap them*/
