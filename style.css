@@ -73,6 +73,11 @@ div{
 	padding: 20px;
 	background-color: #fff;
 }
+
+.stream-nav{
+	cursor: pointer;
+}
+
 .card-highlight{
 	background-color: #EB5255;
 }
