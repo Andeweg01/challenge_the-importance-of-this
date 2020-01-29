@@ -11,3 +11,7 @@ $(".stream-nav").on("click", function() {
     // Then apply the highlight to just this stream's cards
     $(thisStreamCardsSelector).addClass("card-highlight");
 });
+
+$(".card").children("p").on("click", function() {
+    $(this).children("a").addClass("mark-yellow");
+})

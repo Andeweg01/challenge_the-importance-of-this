@@ -82,6 +82,10 @@ div{
 	background-color: rgb(235, 82, 85);
 }
 
+.mark-yellow{
+    background-color: yellow;
+}
+
 #my_footer{
 	width:100%;
 	text-align: center;

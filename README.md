@@ -1,23 +1,10 @@
-# Code Institute
+# Challenges in JQuery
 
-Welcome Sascha Andeweg,
+### Challenge on 'this'
+When a stream is clicked in the nav, that stream’s cards will transition and change background-color. When another stream is clicked, only that stream will transition and change background-color.
 
-We have preinstalled all of the tools you need to get started.
+### Challenge 1 on traversing the DOM
+Add some links to the card paragraphs that don’t need to go anywhere (href=”#”).
+Add a script that performs the following:
+When a paragraph is clicked, all the links within it are highlighted in yellow.
 
-To run a frontend application in GitPod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: *Expose*,
-
-Another blue button should appear to click: *Open Browser*.
-
-To run a backend python file, type `python3 app.py`, if your python file is named `app.py` of course.
-
-A blue button should appear to click: *Expose*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons. 
-
-Happy coding!
